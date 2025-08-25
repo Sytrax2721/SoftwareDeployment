@@ -1,0 +1,6 @@
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\WixCredit\bin\Debug\WixCredit.msi
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\WixCredit\bin\Debug\WixCredit.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\WixCredit.wixproj.BindContentsFileListnull.txt
+obj\Debug\WixCredit.wixproj.BindOutputsFileListnull.txt
+obj\Debug\WixCredit.wixproj.BindBuiltOutputsFileListnull.txt

@@ -1,0 +1,6 @@
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\ExampleDesktop\WixExample\bin\Debug\WixExample.msi
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\ExampleDesktop\WixExample\bin\Debug\WixExample.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\WixExample.wixproj.BindContentsFileListnull.txt
+obj\Debug\WixExample.wixproj.BindOutputsFileListnull.txt
+obj\Debug\WixExample.wixproj.BindBuiltOutputsFileListnull.txt

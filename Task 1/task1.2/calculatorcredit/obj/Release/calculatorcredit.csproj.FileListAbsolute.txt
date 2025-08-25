@@ -1,0 +1,10 @@
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\bin\Release\calculatorcredit.exe.config
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\bin\Release\calculatorcredit.exe
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\bin\Release\calculatorcredit.pdb
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\obj\Release\calculatorcredit.csproj.AssemblyReference.cache
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\obj\Release\calculatorcredit.Form1.resources
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\obj\Release\calculatorcredit.Properties.Resources.resources
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\obj\Release\calculatorcredit.csproj.GenerateResource.cache
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\obj\Release\calculatorcredit.csproj.CoreCompileInputs.cache
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\obj\Release\calculatorcredit.exe
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\obj\Release\calculatorcredit.pdb

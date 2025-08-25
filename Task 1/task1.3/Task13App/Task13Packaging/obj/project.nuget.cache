@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qouTdfq9Esassw/Fqnn9NGhLUTu9WIOivLP11LTyO/XLbQTShEGlu4+v1C3nfz6krbVRM7YGbs7wiy7NVa1DUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\avish\\Desktop\\Year 3 Sem 2\\software Deployment\\Task 1\\task1.3\\Task13App\\Task13Packaging\\Task13Packaging.wapproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512"
+  ],
+  "logs": []
+}

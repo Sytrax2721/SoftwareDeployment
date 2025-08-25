@@ -1,0 +1,6 @@
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\helpersLib\bin\Debug\helpersLib.dll
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\helpersLib\bin\Debug\helpersLib.pdb
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\helpersLib\obj\Debug\helpersLib.csproj.AssemblyReference.cache
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\helpersLib\obj\Debug\helpersLib.csproj.CoreCompileInputs.cache
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\helpersLib\obj\Debug\helpersLib.dll
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\helpersLib\obj\Debug\helpersLib.pdb

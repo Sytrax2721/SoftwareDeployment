@@ -1,0 +1,151 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\avish\\Desktop\\Year 3 Sem 2\\software Deployment\\Task 1\\task1.3\\Task13App\\Task13Packaging\\Task13Packaging.wapproj": {}
+  },
+  "projects": {
+    "C:\\Users\\avish\\Desktop\\Year 3 Sem 2\\software Deployment\\Task 1\\task1.3\\helpersLib\\helpersLib.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\avish\\Desktop\\Year 3 Sem 2\\software Deployment\\Task 1\\task1.3\\helpersLib\\helpersLib.csproj",
+        "projectName": "helpersLib",
+        "projectPath": "C:\\Users\\avish\\Desktop\\Year 3 Sem 2\\software Deployment\\Task 1\\task1.3\\helpersLib\\helpersLib.csproj",
+        "frameworks": {
+          "net462": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {}
+      }
+    },
+    "C:\\Users\\avish\\Desktop\\Year 3 Sem 2\\software Deployment\\Task 1\\task1.3\\mathLib\\mathLib.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\avish\\Desktop\\Year 3 Sem 2\\software Deployment\\Task 1\\task1.3\\mathLib\\mathLib.csproj",
+        "projectName": "mathLib",
+        "projectPath": "C:\\Users\\avish\\Desktop\\Year 3 Sem 2\\software Deployment\\Task 1\\task1.3\\mathLib\\mathLib.csproj",
+        "frameworks": {
+          "net462": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {}
+      }
+    },
+    "C:\\Users\\avish\\Desktop\\Year 3 Sem 2\\software Deployment\\Task 1\\task1.3\\Task13App\\Task13App.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\avish\\Desktop\\Year 3 Sem 2\\software Deployment\\Task 1\\task1.3\\Task13App\\Task13App.csproj",
+        "projectName": "Task13App",
+        "projectPath": "C:\\Users\\avish\\Desktop\\Year 3 Sem 2\\software Deployment\\Task 1\\task1.3\\Task13App\\Task13App.csproj",
+        "frameworks": {
+          "net462": {
+            "projectReferences": {
+              "C:\\Users\\avish\\Desktop\\Year 3 Sem 2\\software Deployment\\Task 1\\task1.3\\helpersLib\\helpersLib.csproj": {
+                "projectPath": "C:\\Users\\avish\\Desktop\\Year 3 Sem 2\\software Deployment\\Task 1\\task1.3\\helpersLib\\helpersLib.csproj"
+              },
+              "C:\\Users\\avish\\Desktop\\Year 3 Sem 2\\software Deployment\\Task 1\\task1.3\\mathLib\\mathLib.csproj": {
+                "projectPath": "C:\\Users\\avish\\Desktop\\Year 3 Sem 2\\software Deployment\\Task 1\\task1.3\\mathLib\\mathLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {}
+      }
+    },
+    "C:\\Users\\avish\\Desktop\\Year 3 Sem 2\\software Deployment\\Task 1\\task1.3\\Task13App\\Task13Packaging\\Task13Packaging.wapproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\avish\\Desktop\\Year 3 Sem 2\\software Deployment\\Task 1\\task1.3\\Task13App\\Task13Packaging\\Task13Packaging.wapproj",
+        "projectName": "Task13Packaging",
+        "projectPath": "C:\\Users\\avish\\Desktop\\Year 3 Sem 2\\software Deployment\\Task 1\\task1.3\\Task13App\\Task13Packaging\\Task13Packaging.wapproj",
+        "packagesPath": "C:\\Users\\avish\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\avish\\Desktop\\Year 3 Sem 2\\software Deployment\\Task 1\\task1.3\\Task13App\\Task13Packaging\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\avish\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net451"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "targetAlias": "net451",
+            "projectReferences": {
+              "C:\\Users\\avish\\Desktop\\Year 3 Sem 2\\software Deployment\\Task 1\\task1.3\\Task13App\\Task13App.csproj": {
+                "projectPath": "C:\\Users\\avish\\Desktop\\Year 3 Sem 2\\software Deployment\\Task 1\\task1.3\\Task13App\\Task13App.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1702"
+          ]
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "targetAlias": "net451",
+          "dependencies": {
+            "Microsoft.Windows.SDK.BuildTools": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.22621.756, )"
+            }
+          },
+          "imports": [
+            "netcoreapp3.1",
+            "netcoreapp3.0",
+            "netcoreapp2.0",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net7.0-windows10.0.22621",
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

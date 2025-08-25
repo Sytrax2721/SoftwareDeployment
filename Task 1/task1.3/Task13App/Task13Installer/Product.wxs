@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*"
+			 Name="Task13 Calculator"
+			 Language="1033"
+			 Version="1.0.0.0"
+			 Manufacturer="AvishICTSTUDENT"
+			 UpgradeCode="A8332332-9546-412A-A234-62A01F28CC12">
+
+		<Package InstallerVersion="500" Compressed="yes" InstallScope="perMachine" />
+		<MediaTemplate EmbedCab="yes" />
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="Task13Calculator" />
+			</Directory>
+			<Directory Id="ProgramMenuFolder">
+				<Directory Id="ApplicationProgramsFolder" Name="Task13 Calculator" />
+			</Directory>
+			<Directory Id="DesktopFolder" />
+		</Directory>
+
+		<DirectoryRef Id="INSTALLFOLDER">
+			<Component Id="Cmp_MainExe" Guid="C34D9A2D-2D85-47D2-AF18-9E1A72AA90C7">
+				<File Id="F_MainExe" Name="Task13App.exe"
+					  Source="$(var.Task13App.TargetDir)Task13App.exe" />
+			</Component>
+
+			<Component Id="Cmp_MathLib" Guid="69A1848E-7439-4DAC-B253-A4E6A9488332">
+				<File Id="F_MathLib" Name="MathLib.dll"
+					  Source="$(var.mathLib.TargetDir)MathLib.dll" />
+			</Component>
+
+			<Component Id="Cmp_HelpersLib" Guid="4D3A97C6-8EF7-4AE8-8682-0DFE50E58EEC">
+				<File Id="F_HelpersLib" Name="HelpersLib.dll"
+					  Source="$(var.helpersLib.TargetDir)HelpersLib.dll" />
+			</Component>
+		</DirectoryRef>
+
+		<DirectoryRef Id="ApplicationProgramsFolder">
+			<Component Id="Cmp_StartMenuShortcut" Guid="{7F00CCBF-DDFE-428C-BF71-E54BC7B13F79}">
+				<Shortcut Id="StartMenuShortcut"
+						  Name="Task13 Calculator"
+						  Description="Launch Task13 Calculator"
+						  Target="[INSTALLFOLDER]Task13App.exe"
+						  WorkingDirectory="INSTALLFOLDER" />
+				<RemoveFolder Id="RemoveProgramsFolder" On="uninstall" />
+				<RegistryValue Root="HKCU"
+							   Key="Software\Task13Calculator"
+							   Name="installed" Type="integer" Value="1" KeyPath="yes" />
+			</Component>
+		</DirectoryRef>
+
+		<DirectoryRef Id="DesktopFolder">
+			<Component Id="Cmp_DesktopShortcut" Guid="EC4E8152-FA8D-45C4-98D6-946A83D9BF1C">
+				<Shortcut Id="DesktopShortcut"
+						  Name="Task13 Calculator"
+						  Target="[INSTALLFOLDER]Task13App.exe"
+						  WorkingDirectory="INSTALLFOLDER" />
+				<RemoveFolder Id="RemoveDesktopShortcut" On="uninstall" />
+				<RegistryValue Root="HKCU"
+							   Key="Software\Task13Calculator"
+							   Name="desktop" Type="integer" Value="1" KeyPath="yes" />
+			</Component>
+		</DirectoryRef>
+
+		<Feature Id="ProductFeature" Title="Task13 Calculator" Level="1">
+			<ComponentRef Id="Cmp_MainExe" />
+			<ComponentRef Id="Cmp_MathLib" />
+			<ComponentRef Id="Cmp_HelpersLib" />
+			<ComponentRef Id="Cmp_StartMenuShortcut" />
+			<ComponentRef Id="Cmp_DesktopShortcut" />
+		</Feature>
+	</Product>
+</Wix>

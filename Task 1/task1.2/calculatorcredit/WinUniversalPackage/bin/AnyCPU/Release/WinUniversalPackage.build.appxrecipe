@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AVISH</Machine>
+    <WindowsUser>avish</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f4b574a5-c138-4e12-8e82-86a90c50a13f</PackageIdentityName>
+    <PackageIdentityPublisher>CN=avishki</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\WinUniversalPackage\obj\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath></WindowsSdkPath>
+    <LayoutDir>C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\WinUniversalPackage\bin\AnyCPU\Release\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\WinUniversalPackage\bin\AnyCPU\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\WinUniversalPackage\Images\SplashScreen.scale-200.png">
+      <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\WinUniversalPackage\Images\LockScreenLogo.scale-200.png">
+      <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\WinUniversalPackage\Images\Square150x150Logo.scale-200.png">
+      <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\WinUniversalPackage\Images\Square44x44Logo.scale-200.png">
+      <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\WinUniversalPackage\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\WinUniversalPackage\Images\StoreLogo.png">
+      <PackagePath>Images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\WinUniversalPackage\Images\Wide310x150Logo.scale-200.png">
+      <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\WinUniversalPackage\bin\AnyCPU\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\bin\Release\calculatorcredit.exe">
+      <PackagePath>calculatorcredit\calculatorcredit.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\bin\Release\calculatorcredit.exe.config">
+      <PackagePath>calculatorcredit\calculatorcredit.exe.config</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

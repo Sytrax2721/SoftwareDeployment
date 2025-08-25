@@ -1,0 +1,2 @@
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\WixCredit\bin\Debug\WixCredit.msi
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\WixCredit\bin\Debug\WixCredit.wixpdb

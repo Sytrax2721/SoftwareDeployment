@@ -1,0 +1,6 @@
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\mathLib\bin\Debug\mathLib.dll
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\mathLib\bin\Debug\mathLib.pdb
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\mathLib\obj\Debug\mathLib.csproj.AssemblyReference.cache
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\mathLib\obj\Debug\mathLib.csproj.CoreCompileInputs.cache
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\mathLib\obj\Debug\mathLib.dll
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\mathLib\obj\Debug\mathLib.pdb

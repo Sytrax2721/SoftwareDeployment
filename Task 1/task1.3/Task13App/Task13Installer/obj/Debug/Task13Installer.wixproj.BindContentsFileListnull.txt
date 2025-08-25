@@ -1,0 +1,3 @@
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\helpersLib\bin\Debug\HelpersLib.dll
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\Task13App\bin\Debug\Task13App.exe
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\mathLib\bin\Debug\MathLib.dll

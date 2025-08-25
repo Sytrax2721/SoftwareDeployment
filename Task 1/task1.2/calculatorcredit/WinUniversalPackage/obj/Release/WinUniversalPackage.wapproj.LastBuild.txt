@@ -1,0 +1,11 @@
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\WinUniversalPackage\Images\SplashScreen.scale-200.png
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\WinUniversalPackage\Images\LockScreenLogo.scale-200.png
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\WinUniversalPackage\Images\Square150x150Logo.scale-200.png
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\WinUniversalPackage\Images\Square44x44Logo.scale-200.png
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\WinUniversalPackage\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\WinUniversalPackage\Images\StoreLogo.png
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\WinUniversalPackage\Images\Wide310x150Logo.scale-200.png
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\WinUniversalPackage\bin\AnyCPU\Release\resources.pri
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\bin\Release\calculatorcredit.exe
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\bin\Release\calculatorcredit.exe.config
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\bin\Release\calculatorcredit.pdb

@@ -1,0 +1,15 @@
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\Task13App\obj\Debug\Task13App.csproj.AssemblyReference.cache
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\Task13App\obj\Debug\Task13App.Form1.resources
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\Task13App\obj\Debug\Task13App.Properties.Resources.resources
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\Task13App\obj\Debug\Task13App.csproj.GenerateResource.cache
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\Task13App\obj\Debug\Task13App.csproj.CoreCompileInputs.cache
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\Task13App\bin\Debug\Task13App.exe.config
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\Task13App\bin\Debug\Task13App.exe
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\Task13App\bin\Debug\Task13App.pdb
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\Task13App\bin\Debug\helpersLib.dll
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\Task13App\bin\Debug\mathLib.dll
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\Task13App\bin\Debug\helpersLib.pdb
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\Task13App\bin\Debug\mathLib.pdb
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\Task13App\obj\Debug\Task13App.csproj.CopyComplete
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\Task13App\obj\Debug\Task13App.exe
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\Task13App\obj\Debug\Task13App.pdb

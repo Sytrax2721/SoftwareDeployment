@@ -1,0 +1,2 @@
+MainPackage=C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\WinUniversalPackage\bin\AnyCPU\Release\WinUniversalPackage_1.0.0.0_AnyCPU.msix
+SymbolPackage=C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.2\calculatorcredit\WinUniversalPackage\obj\Release\Symbols\WinUniversalPackage_1.0.0.0_AnyCPU.appxsym

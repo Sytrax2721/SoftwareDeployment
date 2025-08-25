@@ -1,0 +1,6 @@
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\Task13App\Task13Installer\bin\Debug\Task13Installer.msi
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\task1.3\Task13App\Task13Installer\bin\Debug\Task13Installer.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\Task13Installer.wixproj.BindContentsFileListnull.txt
+obj\Debug\Task13Installer.wixproj.BindOutputsFileListnull.txt
+obj\Debug\Task13Installer.wixproj.BindBuiltOutputsFileListnull.txt

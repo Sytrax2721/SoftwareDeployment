@@ -1,0 +1,10 @@
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\ExampleDesktop\bin\Release\ExampleDesktop.exe.config
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\ExampleDesktop\bin\Release\ExampleDesktop.exe
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\ExampleDesktop\bin\Release\ExampleDesktop.pdb
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\ExampleDesktop\obj\Release\ExampleDesktop.csproj.AssemblyReference.cache
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\ExampleDesktop\obj\Release\ExampleDesktop.Form1.resources
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\ExampleDesktop\obj\Release\ExampleDesktop.Properties.Resources.resources
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\ExampleDesktop\obj\Release\ExampleDesktop.csproj.GenerateResource.cache
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\ExampleDesktop\obj\Release\ExampleDesktop.csproj.CoreCompileInputs.cache
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\ExampleDesktop\obj\Release\ExampleDesktop.exe
+C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 1\ExampleDesktop\obj\Release\ExampleDesktop.pdb
