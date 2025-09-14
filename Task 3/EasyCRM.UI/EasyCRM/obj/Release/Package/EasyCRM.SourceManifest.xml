@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 3\EasyCRM.UI\EasyCRM\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 3\EasyCRM.UI\EasyCRM\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\avish\Desktop\Year 3 Sem 2\software Deployment\Task 3\EasyCRM.UI\EasyCRM\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
